@@ -10,7 +10,3 @@ print(P_2yr)
 # 1b
 P_1month = alg.fractional_matrix_power(P, 1/12)
 print(P_1month)
-
-# 1c
-P_1000yr = np.linalg.matrix_power(P, 1000)
-print(P_1000yr)
